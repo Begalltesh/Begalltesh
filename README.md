@@ -1,12 +1,10 @@
 ### olá, eu sou o Igor Luciano✋
 
-<div>
 <h1>
  <script>
    alert('O pai tá ON');
  </script>
  </h1>
-</div>
 
 <div style="display: inline_block">
   <a href="https://github.com/Begalltesh">
