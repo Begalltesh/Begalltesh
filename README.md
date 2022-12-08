@@ -6,7 +6,7 @@
  </script>
  </h1>
 
-<div style="display:inline_block">
+<div>
   <a href="https://github.com/Begalltesh">
   <img height="180px" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begalltesh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
