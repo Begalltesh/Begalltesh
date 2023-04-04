@@ -1,11 +1,5 @@
 ### olá, eu sou o Igor Luciano✋
 
-<h1>
- <script>
-   alert('O pai tá ON');
- </script>
- </h1>
-
 <div>
   <a href="https://github.com/Begalltesh">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begalltesh&layout=compact&langs_count=7&theme=tokyonight"/>
